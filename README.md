@@ -426,15 +426,3 @@ Estructura recuperada: Usuario { id: 1, nombre: "Alex", activo: true }
 | **Rust garantiza** | Los tipos y seguridad se mantienen siempre |
 
 ---
-
-## 🎓 Para tu Presentación
-
-**Contarías esto así:**
-
-> "Rust nos permite serializar estructuras complejas en archivos binarios de forma segura. 
-> En `Binario.rs` vemos el proceso manual: convertir texto a bytes.
-> En `Serde.rs` vemos lo avanzado: dejar que el compilador genere el código automáticamente con `#[derive]`.
-> La magia está en que Rust **garantiza** que lo que guardamos es exactamente lo que recuperamos, 
-> sin corrupción de tipos ni errores silenciosos."
-
----
