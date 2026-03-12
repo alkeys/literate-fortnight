@@ -438,5 +438,3 @@ Estructura recuperada: Usuario { id: 1, nombre: "Alex", activo: true }
 > sin corrupción de tipos ni errores silenciosos."
 
 ---
-
-**✨ ¡Listo para explicar con total confianza!**
